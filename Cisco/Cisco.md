@@ -13,7 +13,7 @@
 | Packet Tracer 的简单使用    | https://www.bilibili.com/video/av34043448/?p=1   |
 | MAC 地址，IP 地址，ARP 协议 | https://www.bilibili.com/video/av34043448/?p=3   |
 | IPv4 地址-分类地址          | https://www.bilibili.com/video/av34043448/?p=12  |
-| IPv4 地址-划分子网          | https://www.bilibili.om/video/av34043448/?p=13   |
+| IPv4 地址-划分子网          | https://www.bilibili.com/video/av34043448/?p=13   |
 | 交换机路由器基本配置        | https://www.bilibili.com/video/BV1Th411f7Sj?p=11 |
 | 虚拟局域网 VLAN             | https://www.bilibili.com/video/BV1Th411f7Sj?p=1  |
 | 跨 VLAN 通信（单臂路由）    | https://www.bilibili.com/video/BV1Th411f7Sj?p=5  |
